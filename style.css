@@ -1,0 +1,40 @@
+/*Agregamos estilos al Body*/
+
+        body{
+            background-color: #ffd0ff;
+        }
+
+
+        p{
+            text-align: center;
+            font-family:"Roboto", sans-serif;
+            font-size: 18px;
+            border-radius: 10px;
+            border: 5px dotted peru;
+        }
+        
+    /*Agregamos whidth y height*/
+    img{
+        width:180px ;
+        height:180px ;
+        border-radius: 100px;
+        padding: 50px;
+        margin: 50px;
+    }
+
+    .imagen1{
+        width: 120px;
+        height: 130px;
+
+        border-style: dotted;
+        border-color: #b39cd0;
+        
+    }
+    div{
+        background-color: rgb(220, 211, 228);
+    }
+
+     /*Atributo id se manda a llamar con #*/
+     #Parrafo-1{
+        background-color: #ff6f91;
+     }
